@@ -20,10 +20,13 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/92d9d5de-1d13-43b2-a354-c3429e38d50b)
 ![123_3](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/e05c97f8-b035-4e4d-86e8-f91a73aa95a8)
 
-## Output:
+## Output:![WhatsApp Image 2023-11-27 at 13 26 55_c9a8288e](https://github.com/Ranjania2005/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/151624950/e060363f-8c4f-41e3-86b9-6d0f79b33126)
 
-### Name:
-### Register Number:
+![WhatsApp Image 2023-11-27 at 13 26 55_178f1bc6](https://github.com/Ranjania2005/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/151624950/7419a37f-e29d-42f7-8586-9b192fe8a0b3)
+![WhatsApp Image 2023-11-27 at 13 26 52_fab6aa9a](https://github.com/Ranjania2005/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/151624950/4a9c933f-a551-49cd-945e-a93090e4c23e)
+
+### Name: A.RANJANI.
+### Register Number: 23012505.
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
